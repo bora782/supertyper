@@ -7,7 +7,7 @@ It basically saves all the words used in the typing race. When the countdown end
 ## Installation
 Install the required libraries by the following command:
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 You can change your username in the code on line 13 (default username is spiderman1984)
 #### dont forget that cheating is bad, playing fair is more fun: everyone gets to enjoy the challenge!
